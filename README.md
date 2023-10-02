@@ -26,3 +26,4 @@ Microsoft SQL Server Management Studio
 ## Schema Music Store Database:-
 https://github.com/Jabivulla369/Digital-Music-Store-Analysis/blob/5ab7baf2a2b6a4ba08dad6d5c8cf6aeef0e9d766/schema_diagram.png
 
+
