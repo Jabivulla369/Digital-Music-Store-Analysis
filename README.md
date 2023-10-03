@@ -47,4 +47,15 @@ Here's are the Insights of project:
 🔟 Explored the most popular music genre in each country, unleashing a symphony of data-driven insights!
 
 
+## Project Learnings:-
+
+1️⃣ Aggregate Functions: I leveraged aggregate functions to analyze sales data, helping me gain insights into which music genres and artists are the most popular among our customers.
+
+2️⃣ Sub-Queries: Sub-queries proved invaluable when I needed to break down complex queries into manageable parts. They allowed me to fetch specific data from related tables efficiently.
+
+3️⃣ Joins: I seamlessly combined data from multiple tables to create comprehensive reports, connecting customers, products, and sales data.
+
+4️⃣ Window Functions: Window functions empowered me to calculate rankings, track trends, and perform time-based analysis, which is crucial in the music industry.
+
+5️⃣ Common Table Expressions (CTE): I employed CTEs to improve query readability and simplify complex operations. They made my SQL code more maintainable and easier to understand.
 
